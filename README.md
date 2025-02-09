@@ -11,17 +11,17 @@
 
 - 📫 How to reach me **honeyrajput2137@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/16ExCfSgay12tcTwOBp5h6-Pw-3OKztud?sort=13&direction=a](https://drive.google.com/drive/folders/15b-fJlOLkmbH6humTlP4jwCCYc6L3rSs?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/folders/15b-fJlOLkmbH6humTlP4jwCCYc6L3rSs?usp=drive_link)
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman-gupta-6b5b79257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-gupta-6b5b79257" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aman00000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aman00000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aeykayyy29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aeykayyy29" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amanguptp011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanguptp011" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/honeyrajput2137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honeyrajput2137" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/unknown018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unknown018" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/honey_018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="honey_018" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/honey_rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="honey_rajput" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
