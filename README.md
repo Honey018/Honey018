@@ -5,14 +5,12 @@
 
 - 🌱 I’m currently learning *MERN*
 
-- 👨‍💻 All of my projects are available *https://github.com/Honey018*
+-  👨‍💻 All of my projects are available at *https://github.com/honey018*
 
 - 💬 Ask me about *Flutter, App Dev*
 
 - 📫 How to reach me *honeyrajput2137@gmail.com*
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/folders/15b-fJlOLkmbH6humTlP4jwCCYc6L3rSs?usp=drive_link)
-
+  
 - ⚡ Fun fact *Why do programmers prefer dark mode? Because light attracts bugs!* 
 
 <h3 align="left">Connect with me:</h3>
