@@ -1,7 +1,9 @@
 # Hey There, I'm Honey Rajput 👋
 <!-- <h3 align="center">A passionate Software developer from India</h3> -->
-
-### I am a junior (3rd Year) learning to grow every day!
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+<h3> I am a junior (3rd Year) learning to grow every day!</h3>
 <!--- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -63,6 +65,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=honey018&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=honey018&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
